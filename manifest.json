@@ -1,5 +1,5 @@
 {
-    "name": "My First Project",
+    "name": "IPL Match Status",
     "version": "1.0.0",
     "description": "This extension gives IPL match status",
     "manifest_version": 3,
