@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 18px;
     line-height: 1.5;
-    background-image: url('/cover.jpg');
+    background-image: url('./cover.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-image: url('/icons/icon.png');
+    background-image: url('./icons/icon.png');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: #2807aa;
